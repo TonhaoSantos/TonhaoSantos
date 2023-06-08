@@ -54,6 +54,53 @@
 <code><a href="https://jestjs.io" target="_blank"><img height="40" src="https://github.com/jestjs.png?size=40" alt="jest"></a></code><br /><br />
 
 
+<center>
+  <table>
+    <thead>
+      <tr>
+        <th colspan="3">Recent Vue Component's and Javascript Lib's</th>
+      </tr>
+    <thead/>
+    <tbody>
+      <tr>
+        <td>
+          <p style="text-align: center; width: auto; position: absolute; top: 0;">
+            Name: vg-delete-button<br />
+            🔗 Links: 
+            <a href="https://github.com/VemLavarALoucaGamers/vlalg-frontend-components/tree/main/vue-components/vg-delete-button" target="_blank">Github</a> | 
+            <a href="https://www.npmjs.com/package/@vemlavaraloucagamers/vg-delete-button" target="_blank">NPM</a>
+          </p>
+          <a href="#" target="_blank">
+            <img heigth="100%;" src="https://github.com/VemLavarALoucaGamers/vlalg-frontend-components/raw/main/vue-components/vg-delete-button/images/example.gif" />
+          </a>
+        </td>
+        <td>
+          <p style="text-align: center; width: auto; position: absolute; top: 0;">
+            Name: vg-countdown<br />
+            🔗 Links: 
+            <a href="https://github.com/VemLavarALoucaGamers/vlalg-frontend-components/tree/main/vue-components/vg-countdown" target="_blank">Github</a> | 
+            <a href="https://www.npmjs.com/package/@vemlavaraloucagamers/vg-countdown" target="_blank">NPM</a>
+          </p>
+          <a href="#" target="_blank">
+            <img heigth="100%;" src="https://github.com/VemLavarALoucaGamers/vlalg-frontend-components/raw/main/vue-components/vg-countdown/images/example.gif" />
+          </a>
+        </td>
+        <td>
+          <p style="text-align: center; width: auto; position: absolute; top: 0;">
+            Name: vg-credit-card<br />
+            🔗 Links: 
+            <a href="https://github.com/VemLavarALoucaGamers/vlalg-frontend-components/tree/main/vue-components/vg-credit-card" target="_blank">Github</a> | 
+            <a href="https://www.npmjs.com/package/@vemlavaraloucagamers/vg-credit-card" target="_blank">NPM</a>
+          </p>
+          <a href="#" target="_blank">
+            <img width="300" src="https://github.com/VemLavarALoucaGamers/vlalg-frontend-components/raw/main/vue-components/vg-credit-card/src/images/example.gif" />
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</center>
+
 #### 💻 Programming metrics <br />
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
