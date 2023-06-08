@@ -27,7 +27,7 @@
 
 
 ---
-#### 👨🏻‍💻 Languages and Tools <br />
+### 👨🏻‍💻 Languages and Tools <br />
 
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -51,9 +51,10 @@
 <code><a href="http://smacss.com/" target="_blank"><img height="40" src="http://smacss.com/img/jack-head.png" alt="smacss"></a></code>
 <code><a href="https://getbem.com/" target="_blank"><img height="40" src="https://storage.googleapis.com/dpw/app/uploads/2020/05/image.png" alt="bem"></a></code>
 <code><a href="https://www.cypress.io" target="_blank"><img height="40" src="https://www.cypress.io/images/layouts/navbar-brand.svg" alt="cypress"></a></code>
-<code><a href="https://jestjs.io" target="_blank"><img height="40" src="https://github.com/jestjs.png?size=40" alt="jest"></a></code><br /><br />
+<code><a href="https://jestjs.io" target="_blank"><img height="40" src="https://github.com/jestjs.png?size=40" alt="jest"></a></code><br /><br /><br />
 
 
+### 📦 Projects <br />
 <center>
   <table>
     <thead>
@@ -64,8 +65,8 @@
     <tbody>
       <tr>
         <td>
-          <p style="text-align: center; width: auto; position: absolute; top: 0;">
-            Name: vg-delete-button<br />
+          <p style="text-align: center; ">
+            Name: vg-delete-button (Vue3 Component)<br />
             🔗 Links: 
             <a href="https://github.com/VemLavarALoucaGamers/vlalg-frontend-components/tree/main/vue-components/vg-delete-button" target="_blank">Github</a> | 
             <a href="https://www.npmjs.com/package/@vemlavaraloucagamers/vg-delete-button" target="_blank">NPM</a>
@@ -75,8 +76,8 @@
           </a>
         </td>
         <td>
-          <p style="text-align: center; width: auto; position: absolute; top: 0;">
-            Name: vg-countdown<br />
+          <p style="text-align: center;">
+            Name: vg-countdown (Vue3 Component)<br />
             🔗 Links: 
             <a href="https://github.com/VemLavarALoucaGamers/vlalg-frontend-components/tree/main/vue-components/vg-countdown" target="_blank">Github</a> | 
             <a href="https://www.npmjs.com/package/@vemlavaraloucagamers/vg-countdown" target="_blank">NPM</a>
@@ -86,8 +87,8 @@
           </a>
         </td>
         <td>
-          <p style="text-align: center; width: auto; position: absolute; top: 0;">
-            Name: vg-credit-card<br />
+          <p style="text-align: center;">
+            Name: vg-credit-card (Vue3 Component)<br />
             🔗 Links: 
             <a href="https://github.com/VemLavarALoucaGamers/vlalg-frontend-components/tree/main/vue-components/vg-credit-card" target="_blank">Github</a> | 
             <a href="https://www.npmjs.com/package/@vemlavaraloucagamers/vg-credit-card" target="_blank">NPM</a>
@@ -97,11 +98,38 @@
           </a>
         </td>
       </tr>
+      <tr>
+        <td style="text-align: center;">
+          <p>
+            Name: vg-gradient-text (Vue3 Component)<br />
+            🔗 Links: 
+            <a href="https://github.com/VemLavarALoucaGamers/vlalg-frontend-components/tree/main/vue-components/vg-gradient-text" target="_blank">Github</a> | 
+            <a href="https://www.npmjs.com/package/@vemlavaraloucagamers/vg-gradient-text" target="_blank">NPM</a>
+          </p>
+          <a href="#" target="_blank">
+            <img width="200" src="https://github.com/VemLavarALoucaGamers/vlalg-frontend-components/raw/main/vue-components/vg-gradient-text/images/example.png" />
+            <img width="200" src="https://github.com/VemLavarALoucaGamers/vlalg-frontend-components/raw/main/vue-components/vg-gradient-text/images/example2.png" />
+          </a>
+        </td>
+        <td style="text-align: center;">
+          <p>
+            Name: log-manager (Javascript Lib)<br />
+            🔗 Links: 
+            <a href="https://github.com/VemLavarALoucaGamers/vlalg-frontend-components/tree/main/libs/log-manager" target="_blank">Github</a> | 
+            <a href="https://www.npmjs.com/package/@vemlavaraloucagamers/md-log-manager" target="_blank">NPM</a>
+          </p>
+          <a href="#" target="_blank">
+            <img width="200" src="https://github.com/VemLavarALoucaGamers/vlalg-frontend-components/raw/main/libs/log-manager/images/example.png" />
+          </a>
+        </td>
+        <td>
+        </td>
+      </tr>
     </tbody>
   </table>
-</center>
+</center><br /><br />
 
-#### 💻 Programming metrics <br />
+### 💻 Programming metrics <br />
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonhaosantos&layout=donut)
