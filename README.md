@@ -13,16 +13,20 @@
   ![Twitch Status](https://img.shields.io/twitch/status/tonhaosantos?style=for-the-badge)
 </div><br />
 
-<p><em>Software Enginner (12y+ experience on Javascript stack using Node.js and Vue.js, Typescript, NoSql, ...)</em></p>
+<p><em>Software Enginner (12y+ experience on Javascript stack using Node.js and Vue.js, Typescript, NoSql, ...), I meet highly complex demands and I work very well with team and project management.</em></p>
 
 - 🔭 I'm currently working as a Full Stack Software Engineer on personal projects and as a Frontend Software Engineer for companies
 - 🏫 Bachelor computer scientist in one of the greatest
 - 🌱 I'm always improving my skills by learning new things and even updating what I already know
+- More
+  - 💍 High fidelity interfaces: I work with the faithful implementation of interfaces, focusing on the best user experience to meet the expectations of each project.
+  - 🧹 Clean Code: My main guideline during development is the quality of the code following best practices.
+  - 🚴🏽 Agile Methodologies: I use optimized methodologies and plans that streamline the production flow. Through feedback and constant interactions, ensuring the agility and efficiency of the process.
 - ⚡ Hobbies:
-  - Barbecue with the family
-  - stream the game
-  - Learning new things 🧠
-  - Watch movies and series
+  - 🍢 Barbecue with the family
+  - 🕹️ stream the game
+  - 🧠 Learning new things
+  - 🎬 Watch movies and series
 
 
 
