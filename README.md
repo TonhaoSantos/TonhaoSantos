@@ -10,7 +10,7 @@
   [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SantosTonhao/)
   [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tonhaosantosoficial/)
  
-  ![Twitch Status](https://img.shields.io/twitch/status/tonhaosantos?style=for-the-badge)
+  <a href="https://twitch.tv/tonhaosantos" target="_blank">![Twitch Status](https://img.shields.io/twitch/status/tonhaosantos?style=for-the-badge)</a>
 </div><br />
 
 <p><em>Software Enginner (12y+ experience on Javascript stack using Node.js and Vue.js, Typescript, NoSql, ...), I meet highly complex demands and I work very well with team and project management.</em></p>
