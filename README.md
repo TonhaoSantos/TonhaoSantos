@@ -16,7 +16,7 @@
 <p><em>Software Enginner (12y+ experience on Javascript stack using Node.js and Vue.js, Typescript, NoSql, ...), I meet highly complex demands and I work very well with team and project management.</em></p>
 
 - 🔭 I'm currently working as a Full Stack Software Engineer on personal projects and as a Frontend Software Engineer for companies
-- 🏫 Bachelor computer scientist in one of the greatest
+- 🏫 Bachelor computer scientist
 - 🌱 I'm always improving my skills by learning new things and even updating what I already know
 - More
   - 💍 High fidelity interfaces: I work with the faithful implementation of interfaces, focusing on the best user experience to meet the expectations of each project.
