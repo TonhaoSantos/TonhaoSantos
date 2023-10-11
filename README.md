@@ -74,6 +74,18 @@
       <tr>
         <td>
           <p style="text-align: center; ">
+            Name: Nimbus (OpenSource Project)<br />
+            🔗 Links: 
+            <a href="https://nimbus.tec.br/" target="_blank">Doc</a> | 
+            <a href="https://www.npmjs.com/org/vlalg-nimbus" target="_blank">NPM</a> |
+            <a href="https://github.com/VemLavarALoucaGamers/vlalg-nimbus" target="_blank">Github</a> 
+          </p>
+          <a href="#" target="_blank">
+            <img width="320" heigth="100%;" src="https://github.com/TonhaoSantos/TonhaoSantos/assets/12022023/1a2e21a4-7b76-4443-aa07-f5bcb976299d" />
+          </a>
+        </td>
+        <td>
+          <p style="text-align: center; ">
             Name: vg-delete-button (Vue3 Component)<br />
             🔗 Links: 
             <a href="https://github.com/VemLavarALoucaGamers/vlalg-frontend-components/tree/main/vue-components/vg-delete-button" target="_blank">Github</a> | 
@@ -94,17 +106,6 @@
             <img heigth="100%;" src="https://github.com/VemLavarALoucaGamers/vlalg-frontend-components/raw/main/vue-components/vg-countdown/images/example.gif" />
           </a>
         </td>
-        <td>
-          <p style="text-align: center;">
-            Name: vg-credit-card (Vue3 Component)<br />
-            🔗 Links: 
-            <a href="https://github.com/VemLavarALoucaGamers/vlalg-frontend-components/tree/main/vue-components/vg-credit-card" target="_blank">Github</a> | 
-            <a href="https://www.npmjs.com/package/@vemlavaraloucagamers/vg-credit-card" target="_blank">NPM</a>
-          </p>
-          <a href="#" target="_blank">
-            <img width="300" src="https://github.com/VemLavarALoucaGamers/vlalg-frontend-components/raw/main/vue-components/vg-credit-card/src/images/example.gif" />
-          </a>
-        </td>
       </tr>
       <tr>
         <td style="text-align: center;">
@@ -119,16 +120,7 @@
             <img width="200" src="https://github.com/VemLavarALoucaGamers/vlalg-frontend-components/raw/main/vue-components/vg-text/images/example2.png" />
           </a>
         </td>
-        <td style="text-align: center;">
-          <p>
-            Name: log-manager (Javascript Lib)<br />
-            🔗 Links: 
-            <a href="https://github.com/VemLavarALoucaGamers/vlalg-frontend-components/tree/main/libs/log-manager" target="_blank">Github</a> | 
-            <a href="https://www.npmjs.com/package/@vemlavaraloucagamers/md-log-manager" target="_blank">NPM</a>
-          </p>
-          <a href="#" target="_blank">
-            <img width="200" src="https://github.com/VemLavarALoucaGamers/vlalg-frontend-components/raw/main/libs/log-manager/images/example.png" />
-          </a>
+        <td>
         </td>
         <td>
         </td>
