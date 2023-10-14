@@ -109,16 +109,6 @@
       </tr>
       <tr>
         <td style="text-align: center;">
-          <p>
-            Name: vg-text (Vue3 Component)<br />
-            🔗 Links: 
-            <a href="https://github.com/VemLavarALoucaGamers/vlalg-frontend-components/tree/main/vue-components/vg-text" target="_blank">Github</a> | 
-            <a href="https://www.npmjs.com/package/@vemlavaraloucagamers/vg-text" target="_blank">NPM</a>
-          </p>
-          <a href="#" target="_blank">
-            <img width="200" src="https://github.com/VemLavarALoucaGamers/vlalg-frontend-components/raw/main/vue-components/vg-text/images/example.png" />
-            <img width="200" src="https://github.com/VemLavarALoucaGamers/vlalg-frontend-components/raw/main/vue-components/vg-text/images/example2.png" />
-          </a>
         </td>
         <td>
         </td>
